@@ -4,4 +4,5 @@ This platform you can help me for create and fix bug. I will be happy, if you fi
 This is game mix Jetpack Joeride and Doodle Jump.
 <h1>Download</h1>
 version Alpha 0.0.5
-coming soon...
+https://dropmefiles.com/eCklc
+After download, click on mg0.exe and will ok, if you do not edit.
